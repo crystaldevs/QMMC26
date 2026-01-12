@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="40%">
+  <img src="assets/logo.png" width="40%">
 </div>
   
 # QMMC 2026
