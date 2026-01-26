@@ -1,0 +1,138 @@
+ *******************************************************************************
+ *                                                                             *
+ *                                  CRYSTAL26                                  *
+ *                      develop : 0.0.1 - November 2024                        *
+ *                        HTTP://WWW.CRYSTAL.UNITO.IT                          *
+ *                                                                             *
+ *                                MAIN AUTHORS                                 *
+ *                                                                             *
+ *  R. DOVESI(1,11), V.R. SAUNDERS(2), C. ROETTI(1,11), R. ORLANDO(1,11),      *
+ *  C.M. ZICOVICH-WILSON(1,3), F. PASCALE(4), B. CIVALLERI(1,11),              *
+ *  K. DOLL(5), N.M. HARRISON(6), I.J. BUSH(7), Ph. D'ARCO(8),                 *
+ *  M. LLUNELL(9), M. CAUSA'(10), Y. NOEL(8), L. MASCHIO(1,11), A. ERBA(1,11)  *
+ *  M. RE'RAT(14), S. CASASSA(1,11), B.G. SEARLE(2), J.K. DESMARAIS(1)         *
+ *                                                                             *
+ *        CONTRIBUTIONS TO THE CODE HAVE ALSO BEEN GIVEN BY                    *
+ *                                                                             *
+ *  M. FERRABONE(1,11), M. DE LA PIERRE(1,11), M. FERRERO(1,11),               *
+ *  J. BAIMA(1,11), E. ALBANESE(1,11), M.F. PEINTINGER(12), R. BAST(13),       *
+ *  B. KIRTMAN(15), V. LACIVITA(1,11), R. DEMICHELIS(1,16)                     *
+ *  G. BRANDEBURG(17), S. SALUSTRO(1,11), G. SANSONE(1,11)                     *
+ *  M.T. RUGGIERO(18), L.E. DAGA(1), L. DONA'(1), A. COSSARD(1)                *
+ *                                                                             *
+ * (1) THEORETICAL CHEMISTRY GROUP - UNIVERSITA' DI TORINO - TORINO (ITALY)    *
+ * (2) SCIENTIFIC COMPUTING DEPARTMENT - STFC DARESBURY (UK)                   *
+ * (3) UNIVERSIDAD AUTONOMA DEL ESTADO DE MORELOS - CUERNAVACA (MEXICO)        *
+ * (4) UNIVERSITE' DE LORRAINE - NANCY (FRANCE)                                *
+ * (5) UNIVERSITAET STUTTGART- STUTTGART (GERMANY)                             *
+ * (6) IMPERIAL COLLEGE - LONDON (UK)                                          *
+ * (7) SCIENTIFIC COMPUTING DEPARTMENT - STFC RAL (UK)                         *
+ * (8) UPMC - SORBONNE UNIVERSITES - PARIS (FRANCE)                            *
+ * (9) UNIVERSIDAD DE BARCELONA - BARCELONA (SPAIN)                            *
+ *(10) UNIVERSITA' DI NAPOLI "FEDERICO II" - NAPOLI (ITALY)                    *
+ *(11) NIS - NANOSTRUCTURED INTERFACES AND SURFACES - TORINO (ITALY)           *
+ *(12) MPI FUER CHEMISCHE ENERGIEKONVERSION - MUELHEIM AN DER RUHR (GERMANY)   *
+ *(13) UNIVERSITY OF TROMSO - TROMSO (NORWAY)                                  *
+ *(14) UNIVERSITE' DE PAU ET DES PAYS DE L'ADOUR - PAU (FRANCE)                *
+ *(15) UNIVERSITY OF CALIFORNIA SANTA BARBARA - SANTA BARBARA (USA)            *
+ *(16) CURTIN UNIVERSITY - PERTH (AUSTRALIA)                                   *
+ *(17) UNIVERSITY COLLEGE LONDON - LONDON (UK)                                 *
+ *(18) UNIVERSITY OF VERMONT - BURLINGTON (USA)                                *
+ *                                                                             *
+ *******************************************************************************
+ EEEEEEEEEE STARTING  DATE 23 01 2026 TIME 10:07:49.2
+ GRAPHENE                                                                        
+
+ SLAB CALCULATION
+ SYSTEM AND LATTICE                   :  HEXAGONAL   
+ TWO-SIDED PLANE GROUP N. 77          :  P 6 M M         
+ CORRESPONDING SPACE GROUP N. 183
+
+ LATTICE PARAMETERS  (ANGSTROMS AND DEGREES) - CONVENTIONAL CELL
+           A              B            GAMMA
+        2.47000        2.47000      120.00000
+
+
+ NUMBER OF IRREDUCIBLE ATOMS IN THE CONVENTIONAL CELL:    1
+
+ INPUT COORDINATES
+
+ ATOM AT. N.              COORDINATES
+   1   6     3.333330000000E-01  6.666670000000E-01  0.000000000000E+00
+
+ *******************************************************************************
+
+ << INFORMATION >>: FROM NOW ON, ALL COORDINATES REFER TO THE PRIMITIVE CELL
+
+ *******************************************************************************
+
+ LATTICE PARAMETERS  (ANGSTROMS AND DEGREES) - PRIMITIVE CELL
+       A          B          C        ALPHA      BETA     GAMMA        VOLUME
+    2.47000    2.47000  500.00000    90.00000  90.00000 120.00000      5.283534
+
+ COORDINATES OF THE EQUIVALENT ATOMS 
+ (X AND Y IN FRACTIONARY UNITS, Z IN ANGSTROMS)
+
+ N. ATOM EQUIV AT. N.          X                  Y                  Z
+
+   1   1   1    6 C     3.33333000000E-01 -3.33333000000E-01  0.00000000000E+00
+   2   1   2    6 C    -3.33333000000E-01  3.33333000000E-01  0.00000000000E+00
+
+ NUMBER OF SYMMETRY OPERATORS         :   12
+ *******************************************************************************
+ * GEOMETRY EDITING - INPUT COORDINATES ARE GIVEN IN ANGSTROM         
+ *******************************************************************************
+
+ GEOMETRY NOW FULLY CONSISTENT WITH THE GROUP
+
+ GCALCO - MAX INDICES DIRECT LATTICE VECTOR    83    83     0
+ NO.OF VECTORS CREATED 6999 STARS  503 RMAX   205.21625 BOHR
+
+ GEOMETRY FOR WAVE FUNCTION - DIMENSIONALITY OF THE SYSTEM    2
+ (NON PERIODIC DIRECTION: LATTICE PARAMETER FORMALLY SET TO 500)
+ *******************************************************************************
+ LATTICE PARAMETERS (ANGSTROMS AND DEGREES) - BOHR = 0.5291772083 ANGSTROM
+ PRIMITIVE CELL
+         A              B              C           ALPHA      BETA       GAMMA 
+     2.47000000     2.47000000   500.00000000    90.000000  90.000000 120.000000
+ *******************************************************************************
+ ATOMS IN THE ASYMMETRIC UNIT    1 - ATOMS IN THE UNIT CELL:    2
+     ATOM                 X/A                 Y/B             Z(ANGSTROM)
+ *******************************************************************************
+      1 T   6 C     3.333333333333E-01 -3.333333333333E-01  0.000000000000E+00
+      2 F   6 C    -3.333333333333E-01  3.333333333333E-01  0.000000000000E+00
+
+ T = ATOM BELONGING TO THE ASYMMETRIC UNIT
+
+ ****   12 SYMMOPS - TRANSLATORS IN FRACTIONAL UNITS
+ **** MATRICES AND TRANSLATORS IN THE CRYSTALLOGRAPHIC REFERENCE FRAME
+   V INV                    ROTATION MATRICES                   TRANSLATORS
+   1   1  1.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+   2   2 -1.00  0.00  0.00  0.00 -1.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+   3   4  0.00 -1.00  0.00  1.00 -1.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+   4   3 -1.00  1.00  0.00 -1.00  0.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+   5   6  1.00 -1.00  0.00  1.00 -0.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+   6   5 -0.00  1.00  0.00 -1.00  1.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+   7   7 -1.00  1.00  0.00 -0.00  1.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+   8   8  1.00  0.00  0.00  1.00 -1.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+   9   9  0.00 -1.00  0.00 -1.00 -0.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+  10  10 -0.00  1.00  0.00  1.00  0.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+  11  11 -1.00  0.00  0.00 -1.00  1.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+  12  12  1.00 -1.00  0.00  0.00 -1.00  0.00  0.00  0.00  1.00  0.00  0.00  0.00
+
+ DIRECT LATTICE VECTORS CARTESIAN COMPONENTS (ANGSTROM)
+          X                    Y                    Z
+   0.213908274735E+01  -0.123500000000E+01   0.000000000000E+00
+   0.000000000000E+00   0.247000000000E+01   0.000000000000E+00
+   0.000000000000E+00   0.000000000000E+00   0.500000000000E+03
+
+
+ CARTESIAN COORDINATES - PRIMITIVE CELL
+ *******************************************************************************
+ *      ATOM          X(ANGSTROM)         Y(ANGSTROM)         Z(ANGSTROM)
+ *******************************************************************************
+    1     6 C    -1.426055164898E+00 -3.262978158780E-17  0.000000000000E+00
+    2     6 C    -7.130275824492E-01 -1.235000000000E+00  0.000000000000E+00
+ WARNING **** CRYSTA **** TESTGEOM  DIRECTIVE - GEOMETRY EDITING COMPLETE
+ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT END         TELAPSE        0.11 TCPU        0.11
+ EEEEEEEEEE TERMINATION  DATE 23 01 2026 TIME 10:07:49.3
