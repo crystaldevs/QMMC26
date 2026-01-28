@@ -17,3 +17,4 @@ MSc/undergraduate students), with a limited number of attendees.
 - [Elastic Properties](https://colab.research.google.com/drive/1DtENmBA6jhnfaPukKcfokRVRSfD69FMG?usp=sharing)
 - [Vibrational Spectra](https://colab.research.google.com/drive/1yikyVUdzdXJunZFAGA7wb2GnhizLVSO0?usp=sharing)
 - [Phonon Dispersion](https://colab.research.google.com/drive/1TZO1gV-hVZIBGR6T9GUjd79fRRruPjkw?usp=sharing)
+- [One-Electron Properties](https://colab.research.google.com/drive/18DfR4n3F-Lia0bih5vmLrsZAh09uV1Nl?usp=sharing)
